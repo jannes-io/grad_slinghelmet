@@ -271,6 +271,7 @@ private _allowedHeadgear = [
   "rhsusf_ach_helmet_ESS_ocp",
   "rhsusf_ach_helmet_headset_ocp",
   "rhsusf_ach_helmet_headset_ess_ocp",
+  "rhsusf_ach_helmet_headset_ess_ocp_alt",
   "rhsusf_ach_helmet_camo_ocp",
   "rhsusf_ach_helmet_ocp_norotos",
   "rhsusf_ach_helmet_ucp",
